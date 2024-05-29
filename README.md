@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello, my name is Vldaimir 👋
 
-https://roadmap.sh/card/tall/66574111b998f3b3c7c9dd7e?variant=dark&roadmaps=javascript
-[![roadmap.sh](https://roadmap.sh/card/tall/66574111b998f3b3c7c9dd7e?variant=dark&roadmaps=javascript)](https://roadmap.sh)
+### I'm a full stack developer
+
+![roadmap.sh](https://roadmap.sh/card/tall/66574111b998f3b3c7c9dd7e?variant=dark&roadmaps=javascript)
 <!--
 **CVladim1r/CVladim1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
