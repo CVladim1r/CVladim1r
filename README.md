@@ -31,10 +31,10 @@
 
 ### Проекты
 
-- [Munka Project]([https://github.com/CVladim1r/munka-project](https://github.com/CVladim1r/Front-Munka)): Платформа для поиска работы в ресторанной индустрии.
-- [Back-Munka-1](https://github.com/CVladim1r/back-munka-1): Backend для проекта Munka с регистрацией и авторизацией пользователей.
-- [Oraculus]([https://github.com/CVladim1r/back-munka-1](https://github.com/CVladim1r/orcs_front-Admiral-UIKit-Vladimir)): Oraculus - web интерфейс для управления виртуальными базами данных.
-- [Pitch-AI-PAI]((https://github.com/your-pitcher-inc/Pitch-AI-PAI-)): Presentation Generator with Neural Networks
+- [Munka Project](https://github.com/CVladim1r/Front-Munka): Платформа для поиска работы в ресторанной индустрии.
+- [Back-Munka-1](https://github.com/CVladim1r/Back-Munka): Backend для проекта Munka с регистрацией и авторизацией пользователей.
+- [Oraculus](https://github.com/CVladim1r/orcs_front-Admiral-UIKit-Vladimir): Oraculus - web интерфейс для управления виртуальными базами данных.
+- [Pitch-AI-PAI](https://github.com/your-pitcher-inc/Pitch-AI-PAI-): Presentation Generator with Neural Networks
 
 
 ---
