@@ -1,21 +1,21 @@
-## Hello, my name is Vladimir 👋
+## Привет, меня зовут Владимир 👋
 
-### I'm a Full Stack Developer
-
----
-
-- 🔭 I’m currently working on a Telegram bot for job search in the restaurant industry.
-- 🌱 I’m currently learning advanced React and TypeScript techniques.
-- 👯 I’m looking to collaborate on open-source projects related to web development.
-- 🤔 I’m looking for help with optimizing backend performance for large-scale applications.
-- 💬 Ask me about Flask, React, and PostgreSQL.
-- 📫 How to reach me: [vladimir@example.com](mailto:vladimir@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex algorithms and have a passion for chess.
+### Я Full Stack разработчик
 
 ---
 
-### Technologies & Tools
+- 🔭 Сейчас работаю над Telegram-ботом для поиска работы в ресторанной индустрии.
+- 🌱 В настоящее время изучаю продвинутые техники React и TypeScript.
+- 👯 Ищу возможность сотрудничества в open-source проектах, связанных с веб-разработкой.
+- 🤔 Нужна помощь с оптимизацией производительности backend для масштабных приложений.
+- 💬 Спрашивайте меня о Flask, React и PostgreSQL.
+- 📫 Как со мной связаться: [vladimir@example.com](mailto:vladimir@example.com)
+- 😄 Местоимения: Он/Его
+- ⚡ Интересный факт: Я люблю решать сложные алгоритмы и увлекаюсь шахматами.
+
+---
+
+### Технологии и инструменты
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
@@ -29,15 +29,15 @@
 
 ---
 
-### Projects
+### Проекты
 
-- [Munka Project](https://github.com/CVladim1r/munka-project): A job search platform for the restaurant industry.
-- [Back-Munka-1](https://github.com/CVladim1r/back-munka-1): Backend for Munka project with user registration and authorization.
+- [Munka Project](https://github.com/CVladim1r/munka-project): Платформа для поиска работы в ресторанной индустрии.
+- [Back-Munka-1](https://github.com/CVladim1r/back-munka-1): Backend для проекта Munka с регистрацией и авторизацией пользователей.
 
 ---
 
-### GitHub Stats
+### Статистика GitHub
 
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=CVladim1r&show_icons=true&theme=radical)
+![Статистика GitHub Владимира](https://github-readme-stats.vercel.app/api?username=CVladim1r&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVladim1r&layout=compact&theme=radical)
+![Наиболее часто используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=CVladim1r&layout=compact&theme=radical)
