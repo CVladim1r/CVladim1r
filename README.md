@@ -1,19 +1,19 @@
-## Привет, меня зовут Владимир 👋
+## Hi, my name is Vladimir 👋
 
-### Я Full Stack разработчик
-
----
-
-- 🔭 Сейчас работаю над платформой для поиска работы в ресторанной индустрии, а так же активно изучаю новые технологии.
-- 🌱 В настоящее время изучаю продвинутые техники React и TypeScript, а так же Vue.
-- 👯 Ищу возможность сотрудничества в open-source проектах, связанных с веб-разработкой.
-- 💬 Спрашивайте меня о Flask, Vue, React и PostgreSQL.
-- 📫 Как со мной связаться: [vladimir.973@list.ru](mailto:vladimir.973@list.ru)
-- ⚡ Интересный факт: Я люблю решать сложные алгоритмы и увлекаюсь шахматами.
+### I am a Full Stack Developer
 
 ---
 
-### Технологии и инструменты
+- 🔭 Currently working on a job search platform for the restaurant industry, and actively exploring new technologies.
+- 🌱 Currently learning advanced techniques in React and TypeScript, as well as Vue.
+- 👯 Looking for collaboration opportunities in open-source projects related to web development.
+- 💬 Ask me about Flask, Vue, React, and PostgreSQL.
+- 📫 How to reach me: [vladimir.973@list.ru](mailto:vladimir.973@list.ru)
+- ⚡ Fun fact: I love solving complex algorithms and am passionate about chess.
+
+---
+
+### Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
@@ -29,18 +29,18 @@
 
 ---
 
-### Проекты
+### Projects
 
-- [Munka Project](https://github.com/CVladim1r/Front-Munka): Платформа для поиска работы в ресторанной индустрии.
-- [Back-Munka-1](https://github.com/CVladim1r/Back-Munka): Backend для проекта Munka с регистрацией и авторизацией пользователей.
-- [Oraculus](https://github.com/CVladim1r/orcs_front-Admiral-UIKit-Vladimir): Oraculus - web интерфейс для управления виртуальными базами данных.
+- [Munka Project](https://github.com/CVladim1r/Front-Munka): Job search platform for the restaurant industry.
+- [Back-Munka-1](https://github.com/CVladim1r/Back-Munka): Backend for the Munka project with user registration and authentication.
+- [Oraculus](https://github.com/CVladim1r/orcs_front-Admiral-UIKit-Vladimir): Oraculus - web interface for managing virtual databases.
 - [Pitch-AI-PAI](https://github.com/your-pitcher-inc/Pitch-AI-PAI-): Presentation Generator with Neural Networks
-- [Savrus Visualization ClickHouse](https://github.com/CVladim1r/Savrus-vue3-queryVis): Dashboard с визуализацией запросов к субд ClickHouse.
+- [Savrus Visualization ClickHouse](https://github.com/CVladim1r/Savrus-vue3-queryVis): Dashboard with query visualization for ClickHouse DBMS.
 
 ---
 
-### Статистика GitHub
+### GitHub Stats
 
-![Статистика GitHub Владимира](https://github-readme-stats.vercel.app/api?username=CVladim1r&show_icons=true&theme=radical)
+![Vladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CVladim1r&show_icons=true&theme=radical)
 
-![Наиболее часто используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=CVladim1r&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CVladim1r&layout=compact&theme=radical)
