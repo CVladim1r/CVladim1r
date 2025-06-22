@@ -10,6 +10,16 @@
 - 💬 Ask me about Flask, Vue, React, and PostgreSQL.
 - 📫 How to reach me: [vladimir.973@list.ru](mailto:vladimir.973@list.ru)
 
+```js
+const myStack = {
+  languages: ['Python', 'JavaScript', 'TypeScript'],
+  frontend: ['React', 'Vue', 'Tailwind'],
+  backend: ['Node.js', 'Flask', 'Express'],
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
+  tools: ['Git', 'Docker', 'Webpack', 'CI/CD'],
+  superpower: 'Transforming coffee ☕ into clean code'
+};
+```
 ---
 
 ### Technologies and Tools
