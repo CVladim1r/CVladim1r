@@ -27,16 +27,6 @@
 
 ---
 
-### Projects
-
-- [Munka Project](https://github.com/CVladim1r/Front-Munka): Job search platform for the restaurant industry.
-- [Back-Munka-1](https://github.com/CVladim1r/Back-Munka): Backend for the Munka project with user registration and authentication.
-- [Oraculus](https://github.com/CVladim1r/orcs_front-Admiral-UIKit-Vladimir): Oraculus - web interface for managing virtual databases.
-- [Pitch-AI-PAI](https://github.com/your-pitcher-inc/Pitch-AI-PAI-): Presentation Generator with Neural Networks
-- [Savrus Visualization ClickHouse](https://github.com/CVladim1r/Savrus-vue3-queryVis): Dashboard with query visualization for ClickHouse DBMS.
-
----
-
 ### GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CVladim1r&layout=compact&theme=radical)
