@@ -1,8 +1,6 @@
-## Hi, my name is Vladimir 👋
-### I am a Full Stack Developer
+## Hi, my name is Vladimir and I am a Full Stack Developer 👋
 
 ---
-
 
 ### Technologies and Tools
 
