@@ -1,5 +1,4 @@
 ## Hi, my name is Vladimir 👋
-
 ### I am a Full Stack Developer
 
 ---
