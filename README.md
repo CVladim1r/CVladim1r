@@ -4,14 +4,6 @@
 
 ---
 
-- 🔭 Currently working on a job search platform for the restaurant industry, and actively exploring new technologies.
-- 🌱 Currently learning advanced techniques in React and TypeScript, as well as Vue.
-- 👯 Looking for collaboration opportunities in open-source projects related to web development.
-- 💬 Ask me about Flask, Vue, React, and PostgreSQL.
-- 📫 How to reach me: [vladimir.973@list.ru](mailto:vladimir.973@list.ru)
-
-
----
 
 ### Technologies and Tools
 
