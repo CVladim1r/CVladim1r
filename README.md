@@ -14,9 +14,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CVladim1r&layout=compact&theme=radical)
